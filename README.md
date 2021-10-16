@@ -1,6 +1,6 @@
 # simple_pomodoro
 
-A new Flutter project.
+A simple pomodoro timer for Android and iOS.
 
 ## Getting Started
 
